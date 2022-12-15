@@ -1,7 +1,9 @@
 Q-1  Write a brief description of all the below commands. (15 Marks):
 
 1. Git pull
-Ans 1:
+Ans 1:  The git pull command is used to fetch and download content from a remote repository and immediately
+ update the local repository to match that content.
+  Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows
 
 2. Git push
 Ans 2:
