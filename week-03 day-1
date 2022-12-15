@@ -6,32 +6,32 @@ Ans 1:  The git pull command is used to fetch and download content from a remote
   Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows
 
 2. Git push
-Ans 2: to be changes
+Ans 2:it is used to upload local repository content to a remote repositry
 
 
 3. Git log
-Ans 3:
+Ans 3:this command is used to check the commit history
 
 4. Git status
-Ans 4:
+Ans 4:the status command is used to display tha state of the working directory andthe staging area
 
 
 5. Git commit
-Ans 5:
+Ans 5:the commit command is used to currentiy staged changes
 
 
 6. Git init
-Ans 6:
+Ans 6:the init command will initialize an empty repository
 
 7. Git clone
-Ans 7:
+Ans 7:this command is used to make a copy of a repository from an existing url
 
 
 8. Git Checkout
-Ans 8:
+Ans 8:the git checkout command is used to switch between branches i9na repository
 
 9. mkdir
-Ans 9:
+Ans 9:mkdir command is used to make a new repository
 
 10. ls -a
-Ans 10: fghjkl
+Ans 10:ls -a command is show the list od dirctory
